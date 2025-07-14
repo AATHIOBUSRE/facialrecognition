@@ -74,7 +74,6 @@ Click Predict Image → Upload or capture → See prediction and confidence.
 Click Add Image → Upload with name or use camera → Automatically augments and retrains the model.
 
 ✅ Tips
-Add 5–10 images per person for better accuracy.
 
 Use good lighting and front-facing poses.
 
